@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### 🔭 We are currently working on the our project at course Robot System Design.
 ### 📫 How to reach me: chenyiting@whu.edu.cn, 943351323@qq.com
+
+### 😄 Pronouns: This website will carry the details of our project, including a autonomous table organization system simulation and a grasping dataset
+
+### ⚡ See You Soon !
 <!--
 **Xyyy1999/Xyyy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
