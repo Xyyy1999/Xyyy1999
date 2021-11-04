@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🔭 We are currently working on the our project at course Robot System Design.
+### 📫 How to reach me: chenyiting@whu.edu.cn, 943351323@qq.com
 <!--
 **Xyyy1999/Xyyy1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
