@@ -4,7 +4,7 @@
 ### 🔭 We are currently working on the our project at course Robot System Design.
 ### 📫 How to reach me: chenyiting@whu.edu.cn, 943351323@qq.com
 
-### 😄 Pronouns: This website will carry the details of our project, including a autonomous table organization system simulation and a grasping dataset
+### 😄 Pronouns: This website will carry the details of our project, including an autonomous table organization system simulation and a grasping dataset
 
 ### ⚡ See You Soon !
 <!--
