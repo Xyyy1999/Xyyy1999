@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+### 👯 We are Yiting CHEN and Yu XIANG
 ### 🔭 We are currently working on the our project at course Robot System Design.
 ### 📫 How to reach me: chenyiting@whu.edu.cn, 943351323@qq.com
 
